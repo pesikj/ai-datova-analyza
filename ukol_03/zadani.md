@@ -35,3 +35,5 @@ Nech si zobrazit základní popisné statistiky:
 Dále proveď analýzu věrnosti zákazníků. Kolik procent zákazníků provedlo více než jednu objednávku. Vytvoř histogram počtu objednávek pro jednotlivé zákazníky. Nakupují vracející se zákazníci spíše zboží ve slevě? Je nějaká kategorie, která se prodává ve slevě výrazně častěji než ostatní? Jaká je průměrná sleva pro jednotlivé kategorie. A jaký je průměrný zisk?
 
 Požádej ChatGPT, aby ti nabídl metody, pomocí kterých je možné predikovat budoucí prodeje. Vyber si jednu z metod a požádej o bližší vysvětlení. Dále ho nech vygenerovat kód, pomocí kterého predikci provede, a aby výsledek zobrazil pomocí grafu.
+
+Na základě dat vytvoř návrh obchodní strategie pro prodejce. Doporuč kategorie a podkategorie produktů, na které by se firma měla zaměřit. Vybírej kategorie jak podle zisku, tak podle tržeb.
