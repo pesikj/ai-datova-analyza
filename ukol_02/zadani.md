@@ -16,4 +16,4 @@ Vygeneruj mapu střední Evropy, která zobrazí celkové skóre jednotlivých s
 
 ## Index demokracie
 
-Stáhni si data z tabulky [indexu demokracie](democracy-index-eiu.csv). Požádej ChatGPT, aby propojil tabulky s indexem ekonomické svobody a indexem demokracie. K tomu využij ISO kódy, což jsou mezinárodně uznávaná označení států. Požádej ChatGPT o propojení tabulek pomocí těchto sloupců
+Stáhni si data z tabulky [indexu demokracie](democracy-index-eiu.csv). Požádej ChatGPT, aby propojil tabulky s indexem ekonomické svobody a indexem demokracie. K tomu využij ISO kódy, což jsou mezinárodně uznávaná označení států. Požádej ChatGPT o propojení tabulek pomocí těchto sloupců. Existuje korelace mezi indexem ekonomické svobody a indexem demokracie? Existují v datech nějaká odlehlá pozorování (*outliers*)? Které státy to jsou a proč jsou tak specifické?
